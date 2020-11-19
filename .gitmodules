@@ -1,0 +1,4 @@
+[submodule "clean-code-tasks-java"]
+	path = clean-code-tasks-java
+	url = https://git.epam.com/devendar_tamma/clean-code-tasks-java.git
+	branch = master
